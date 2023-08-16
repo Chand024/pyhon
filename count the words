@@ -1,0 +1,6 @@
+a=input("Enter a string")
+d=dict()
+b=a.split()
+for x in b:
+   d[x]=d.get(x,0)+1
+print(d)
