@@ -1,4 +1,5 @@
 #python
+
 a=input("Enter a string")
 d=dict()
 b=a.split()
